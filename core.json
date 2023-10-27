@@ -1,0 +1,10 @@
+{
+    "productId": "",
+    "source": "",
+    "apiUrl": "",
+    "apiKey": "",
+    "version": "1.0.0",
+    "marketplaceUrl": "",
+    "marketplaceToken": "",
+    "minimumPhpVersion": "8.0.2"
+}
